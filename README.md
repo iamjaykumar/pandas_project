@@ -1,5 +1,4 @@
-# pandas_project
-This repo consist of python library pandas 
+
 # Pandas Learning & Project Showcase
 
 ## 📘 Overview
